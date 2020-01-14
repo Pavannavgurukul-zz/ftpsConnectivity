@@ -1,0 +1,18 @@
+{
+  "name": "ftptesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chilkat/ck-node11-linux64": "^9.50.80",
+    "express": "^4.17.1",
+    "ftp": "^0.3.10",
+    "ftp-client": "^0.2.2",
+    "ftps": "^1.1.1"
+  }
+}
